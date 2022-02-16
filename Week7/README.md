@@ -1,5 +1,5 @@
 ![Original W.E.B Du Bois visualization plate 2 titled "Relative Negro Population of the States of the United States" that depicts population density in color on a map of the United States](https://github.com/liujamin/TidyTuesday/blob/main/Week7/original-plate-02.jpg)
-![Recreated map titled "Relative Black Population of the States of the United States" in the style of Original W.E.B Du Bois visualization plate 2 made in R](https://github.com/liujamin/TidyTuesday/blob/main/Week7/Recreation.png)
+![Recreated map titled "Relative Black Population of the States of the United States" in the style of Original W.E.B Du Bois visualization plate 2 made in R](https://github.com/liujamin/TidyTuesday/blob/main/Week7/Plate2_Recreation.png)
 
 
 # References
