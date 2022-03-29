@@ -28,6 +28,7 @@ Let's start with the female names:
 ## Harry Potter Male Names
 
 Now for the male characters:
+
 ![Plot of incidences of twelve female character names from the Harry Potter franchise (Harry, Ron, Albus, Severus, Draco, Neville, Rubeus, Fred, George, Sirius, Remus, Cedric) over time from 1960 to present.](https://github.com/liujamin/TidyTuesday/blob/main/2022/Week12_babynames/MaleCharacters.png)
 
 * In general, most male names did not experience a huge burst of popularity just following the 2000s. Harry, Ron, Neville, Fred, George, and Cedric all followed the general downward trend.
@@ -39,7 +40,7 @@ Now for the male characters:
 * Draco as a name also saw a steady increase in prevalence, as did Sirius and Remus, in the 2000s.
 
 # References
-## Uploads to CRAN or Bioconductor
+## babynames or nzbabynames
 The data this week comes from [US babynames & nzbabynames](http://hadley.github.io/babynames/) from [Emily Kothe's nzbabynames vignette](https://ekothe.github.io/nzbabynames/articles/guess_the_age.html)
 ## Data Availability
 Data available in the [GitHub repo](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-03-22/readme.md).
